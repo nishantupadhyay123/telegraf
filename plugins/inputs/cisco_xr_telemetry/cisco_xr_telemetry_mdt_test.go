@@ -3,7 +3,7 @@
  * Author: Steven Barth <stbarth@cisco.com>
  */
 
-package cisco_telemetry_mdt
+package cisco_xr_telemetry
 
 import (
 	"context"
